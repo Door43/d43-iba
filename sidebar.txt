@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iba:home|Door43 (iba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iba|d43-iba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iba/archive/master.zip|d43-iba.zip]]
+
+**Recent Changes**
+{{changes>ns = iba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iba|Ethnologue data]]
+
